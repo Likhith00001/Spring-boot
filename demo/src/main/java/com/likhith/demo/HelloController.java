@@ -16,5 +16,4 @@ public class HelloController {
     public String sayHi() {
         return "hi mate u are doing great";
     }
-    
 }
